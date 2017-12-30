@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Final_Project.vcxproj, FinanProject_JianchaoJi.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Stock_Portfolio_Account_Jianchao_Ji.cpp
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(155): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(182): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(209): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(681): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(682): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(717): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  main_Jianchao_Ji.cpp
+  accountNode_Jianchao_Ji.cpp
+  Account_Jianchao_Ji.cpp
+  Final_Project.vcxproj -> E:\Homework\programing finance\Final Project\Final_Project\x64\Debug\FinalProject_JianchaoJi.exe
+  Final_Project.vcxproj -> E:\Homework\programing finance\Final Project\Final_Project\x64\Debug\FinalProject_JianchaoJi.pdb (Partial PDB)

@@ -1,0 +1,11 @@
+﻿  main_Jianchao_Ji.cpp
+e:\homework\programing finance\final project\final_project\final_project\main_jianchao_ji.cpp(17): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\homework\programing finance\final project\final_project\final_project\main_jianchao_ji.cpp(18): error C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(116): note: 参见“asctime”的声明
+  accountNode.cpp
+  Stock_Portfolio_Account_Jianchao_Ji.cpp
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(123): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(150): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\homework\programing finance\final project\final_project\final_project\stock_portfolio_account_jianchao_ji.cpp(177): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
